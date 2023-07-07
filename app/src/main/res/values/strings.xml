@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TugasPenyetaraan</string>
+    <string name="something_went_wrong">Failed to Load Data</string>
+    <string name="succes">Succesed to Load Data</string>
+    <string name="co2">CO2</string>
+    <string name="land">Land Monitor</string>
+    <string name="loading">Loading</string>
+    <string name="temp">Temperature</string>
+    <string name="tds">Total Dissolved Solid</string>
+    <string name="ph">pH</string>
+    <string name="wind">Wind</string>
+    <string name="hum">Humidity</string>
+</resources>
